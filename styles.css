@@ -28,11 +28,12 @@ h3{
 
 .containerletter{
     display: flex;
+    justify-content: center;
+    width: 40%;
 }
 
 
 .vertical{
-
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
