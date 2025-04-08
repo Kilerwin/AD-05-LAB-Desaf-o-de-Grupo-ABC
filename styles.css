@@ -1,0 +1,38 @@
+body{
+    margin: 20px;
+}
+
+h1{
+    font-size: 50px;
+    color:rgb(248, 14, 34);
+}
+
+h3{
+    font-size: 25px;
+    color:rgb(27, 14, 75);
+}
+
+img{
+    margin-left: 10%;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    object-fit:contain
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+
+.containerletter{
+    display: flex;
+}
+
+
+.vertical{
+
+    margin-left: 10%;
+    margin-right: 10%;
+}
